@@ -1,0 +1,4 @@
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y9\obj\Debug\net8.0\T6Y9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y9\obj\Debug\net8.0\T6Y9.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y9\obj\Debug\net8.0\T6Y9.AssemblyInfo.cs
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y9\obj\Debug\net8.0\T6Y9.csproj.CoreCompileInputs.cache

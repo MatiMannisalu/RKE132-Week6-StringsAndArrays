@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\obj\Debug\net8.0\T6Y2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\obj\Debug\net8.0\T6Y2.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\obj\Debug\net8.0\T6Y2.AssemblyInfo.cs
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\obj\Debug\net8.0\T6Y2.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\bin\Debug\net8.0\T6Y2.exe
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\bin\Debug\net8.0\T6Y2.deps.json
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\bin\Debug\net8.0\T6Y2.runtimeconfig.json
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\bin\Debug\net8.0\T6Y2.dll
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\bin\Debug\net8.0\T6Y2.pdb
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\obj\Debug\net8.0\T6Y2.dll
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\obj\Debug\net8.0\refint\T6Y2.dll
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\obj\Debug\net8.0\T6Y2.pdb
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\obj\Debug\net8.0\T6Y2.genruntimeconfig.cache
+C:\Users\manni\source\repos\Week6StringsAndArrays\T6Y2\obj\Debug\net8.0\ref\T6Y2.dll
